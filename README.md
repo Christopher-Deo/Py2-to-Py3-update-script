@@ -1,1 +1,1 @@
-# y2-to-py3-update-script
+# Py2-to-Py3-update-script
